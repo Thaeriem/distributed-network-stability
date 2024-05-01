@@ -1,6 +1,7 @@
 import networkx as nx
 from collections import defaultdict
 import random
+import matplotlib.pyplot as plt
 
 
 def read_undigraph(filename):
@@ -68,7 +69,7 @@ def disconnect(graph, cc):
 
 
 # Example usage:
-for i in range(1, 21):
+for i in range(1, 2):
     dir = 'graphs/g' + str(i) + '_directed.txt'
     undir = 'graphs/g' + str(i) + '_undirected.txt'
     digraph = read_digraph(dir)
