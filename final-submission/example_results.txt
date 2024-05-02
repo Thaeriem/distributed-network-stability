@@ -1,0 +1,210 @@
+Graph 4: nodes: 10876, edges: 39994
+scc: 6560
+  Graph 4 100%:   nodes: 10876,   edges: 39994
+  scc: 6560
+    Robustness Measures:
+    Random nodes till disconnect: 214,         percentage: 2.64%
+    High-deg nodes till disconnect: 23,        percentage: 0.28%
+    Betweenness nodes till disconnect: 17,       percentage: 0.20%
+    Avg nhbr nodes till disconnect: 697,       percentage: 8.85%
+    Failure Simulation (avg 10):
+    Sequential failure random:  119.0
+    Sequential failure high-deg:  139.3
+    Sequential failure betweenness:  158.0
+    Sequential failure avg nhbr:  124.0
+    Network Repair Types (avg 10):
+    Seq fail rand after 50 added:  138.7
+    Seq fail high-deg after 50 added:  1.0
+    Seq fail betweenness after 50 added:  158.0
+    Seq fail avg nhbr after 50 added:  99.2
+  Graph 4 70%:   nodes: 7596,   edges: 24069
+  scc: 3280
+    Robustness Measures:
+    Random nodes till disconnect: 164,         percentage: 3.10%
+    High-deg nodes till disconnect: 17,        percentage: 0.31%
+    Betweenness nodes till disconnect: 43,       percentage: 0.78%
+    Avg nhbr nodes till disconnect: 805,       percentage: 16.24%
+    Failure Simulation (avg 10):
+    Sequential failure random:  178.5
+    Sequential failure high-deg:  167.9
+    Sequential failure betweenness:  71.0
+    Sequential failure avg nhbr:  264.0
+    Network Repair Types (avg 10):
+    Seq fail rand after 50 added:  162.7
+    Seq fail high-deg after 50 added:  66.0
+    Seq fail betweenness after 50 added:  71.0
+    Seq fail avg nhbr after 50 added:  50.5
+  Graph 4 60%:   nodes: 6502,   edges: 21734
+  scc: 2186
+    Robustness Measures:
+    Random nodes till disconnect: 157,         percentage: 3.35%
+    High-deg nodes till disconnect: 17,        percentage: 0.35%
+    Betweenness nodes till disconnect: 50,       percentage: 1.03%
+    Avg nhbr nodes till disconnect: 600,       percentage: 13.51%
+    Failure Simulation (avg 10):
+    Sequential failure random:  207.4
+    Sequential failure high-deg:  173.9
+    Sequential failure betweenness:  70.0
+    Sequential failure avg nhbr:  262.0
+    Network Repair Types (avg 10):
+    Seq fail rand after 50 added:  178.3
+    Seq fail high-deg after 50 added:  20.1
+    Seq fail betweenness after 50 added:  70.0
+    Seq fail avg nhbr after 50 added:  30.2
+  Graph 4 55%:   nodes: 5956,   edges: 20896
+  scc: 1640
+    Robustness Measures:
+    Random nodes till disconnect: 198,         percentage: 4.47%
+    High-deg nodes till disconnect: 17,        percentage: 0.36%
+    Betweenness nodes till disconnect: 47,       percentage: 1.01%
+    Avg nhbr nodes till disconnect: 602,       percentage: 14.25%
+    Failure Simulation (avg 10):
+    Sequential failure random:  163.7
+    Sequential failure high-deg:  174.7
+    Sequential failure betweenness:  59.0
+    Sequential failure avg nhbr:  262.0
+    Network Repair Types (avg 10):
+    Seq fail rand after 50 added:  160.4
+    Seq fail high-deg after 50 added:  114.2
+    Seq fail betweenness after 50 added:  59.0
+    Seq fail avg nhbr after 50 added:  36.0
+Graph 5: nodes: 8846, edges: 31839
+scc: 5613
+  Graph 5 100%:   nodes: 8846,   edges: 31839
+  scc: 5613
+    Robustness Measures:
+    Random nodes till disconnect: 143,         percentage: 2.14%
+    High-deg nodes till disconnect: 42,        percentage: 0.62%
+    Betweenness nodes till disconnect: 3,        percentage: 0.04%
+    Avg nhbr nodes till disconnect: 256,       percentage: 3.87%
+    Failure Simulation (avg 10):
+    Sequential failure random:  145.2
+    Sequential failure high-deg:  115.4
+    Sequential failure betweenness:  47.0
+    Sequential failure avg nhbr:  129.0
+    Network Repair Types (avg 10):
+    Seq fail rand after 50 added:  148.5
+    Seq fail high-deg after 50 added:  81.6
+    Seq fail betweenness after 50 added:  43.0
+    Seq fail avg nhbr after 50 added:  38.7
+  Graph 5 68%:   nodes: 6039,   edges: 18408
+  scc: 2806
+    Robustness Measures:
+    Random nodes till disconnect: 128,         percentage: 3.07%
+    High-deg nodes till disconnect: 50,        percentage: 1.16%
+    Betweenness nodes till disconnect: 106,      percentage: 2.48%
+    Avg nhbr nodes till disconnect: 232,       percentage: 5.57%
+    Failure Simulation (avg 10):
+    Sequential failure random:  132.8
+    Sequential failure high-deg:  143.3
+    Sequential failure betweenness:  31.0
+    Sequential failure avg nhbr:  115.0
+    Network Repair Types (avg 10):
+    Seq fail rand after 50 added:  146.8
+    Seq fail high-deg after 50 added:  25.6
+    Seq fail betweenness after 50 added:  31.0
+    Seq fail avg nhbr after 50 added:  11.5
+  Graph 5 58%:   nodes: 5104,   edges: 16313
+  scc: 1871
+    Robustness Measures:
+    Random nodes till disconnect: 184,         percentage: 5.30%
+    High-deg nodes till disconnect: 47,        percentage: 1.25%
+    Betweenness nodes till disconnect: 91,       percentage: 2.45%
+    Avg nhbr nodes till disconnect: 233,       percentage: 6.48%
+    Failure Simulation (avg 10):
+    Sequential failure random:  162.2
+    Sequential failure high-deg:  237.8
+    Sequential failure betweenness:  215.0
+    Sequential failure avg nhbr:  321.0
+    Network Repair Types (avg 10):
+    Seq fail rand after 50 added:  182.9
+    Seq fail high-deg after 50 added:  64.0
+    Seq fail betweenness after 50 added:  215.0
+    Seq fail avg nhbr after 50 added:  112.6
+  Graph 5 52%:   nodes: 4636,   edges: 15546
+  scc: 1403
+    Robustness Measures:
+    Random nodes till disconnect: 156,          percentage: 4.36%
+    High-deg nodes till disconnect: 47,        percentage: 1.31%
+    Betweenness nodes till disconnect: 86,       percentage: 2.43%
+    Avg nhbr nodes till disconnect: 133,       percentage: 3.78%
+    Failure Simulation (avg 10):
+    Sequential failure random:  117.4
+    Sequential failure high-deg:  237.3
+    Sequential failure betweenness:  139.0
+    Sequential failure avg nhbr:  321.0
+    Network Repair Types (avg 10):
+    Seq fail rand after 50 added:  230.7
+    Seq fail high-deg after 50 added:  26.8
+    Seq fail betweenness after 50 added:  139.0
+    Seq fail avg nhbr after 50 added:  32.1
+Graph 6: nodes: 8717, edges: 31525
+scc: 5492
+  Graph 6 100%:   nodes: 8717,   edges: 31525
+  scc: 5492
+    Robustness Measures:
+    Random nodes till disconnect: 222,         percentage: 3.57%
+    High-deg nodes till disconnect: 53,        percentage: 0.79%
+    Betweenness nodes till disconnect: 56,       percentage: 0.84%
+    Avg nhbr nodes till disconnect: 262,       percentage: 4.00%
+    Failure Simulation (avg 10):
+    Sequential failure random:  118.5
+    Sequential failure high-deg:  102.4
+    Sequential failure betweenness:  173.0
+    Sequential failure avg nhbr:  60.0
+    Network Repair Types (avg 10):
+    Seq fail rand after 50 added:  136.9
+    Seq fail high-deg after 50 added:  177.5
+    Seq fail betweenness after 50 added:  173.0
+    Seq fail avg nhbr after 50 added:  60.0
+  Graph 6 68%:   nodes: 5971,   edges: 18408
+  scc: 2746
+    Robustness Measures:
+    Random nodes till disconnect: 144,          percentage: 3.39%
+    High-deg nodes till disconnect: 47,        percentage: 1.09%
+    Betweenness nodes till disconnect: 74,       percentage: 1.73%
+    Avg nhbr nodes till disconnect: 263,       percentage: 6.34%
+    Failure Simulation (avg 10):
+    Sequential failure random:  91.6
+    Sequential failure high-deg:  98.7
+    Sequential failure betweenness:  60.0
+    Sequential failure avg nhbr:  60.0
+    Network Repair Types (avg 10):
+    Seq fail rand after 50 added:  118.8
+    Seq fail high-deg after 50 added:  117.2
+    Seq fail betweenness after 50 added:  60.0
+    Seq fail avg nhbr after 50 added:  45.6
+  Graph 6 58%:   nodes: 5055,   edges: 16383
+  scc: 1830
+    Robustness Measures:
+    Random nodes till disconnect: 142,         percentage: 3.91%
+    High-deg nodes till disconnect: 46,        percentage: 1.23%
+    Betweenness nodes till disconnect: 81,       percentage: 2.18%
+    Avg nhbr nodes till disconnect: 258,       percentage: 7.20%
+    Failure Simulation (avg 10):
+    Sequential failure random:  134.2
+    Sequential failure high-deg:  134.7
+    Sequential failure betweenness:  109.0
+    Sequential failure avg nhbr:  100.0
+    Network Repair Types (avg 10):
+    Seq fail rand after 50 added:  176.0
+    Seq fail high-deg after 50 added:  0.3
+    Seq fail betweenness after 50 added:  89.4
+    Seq fail avg nhbr after 50 added:  50.0
+  Graph 6 53%:   nodes: 4598,   edges: 15557
+  scc: 1373
+    Robustness Measures:
+    Random nodes till disconnect: 184,          percentage: 5.28%
+    High-deg nodes till disconnect: 46,        percentage: 1.30%
+    Betweenness nodes till disconnect: 79,       percentage: 2.26%
+    Avg nhbr nodes till disconnect: 428,       percentage: 13.28%
+    Failure Simulation (avg 10):
+    Sequential failure random:  139.6
+    Sequential failure high-deg:  167.2
+    Sequential failure betweenness:  121.0
+    Sequential failure avg nhbr:  60.0
+    Network Repair Types (avg 10):
+    Seq fail rand after 50 added:  221.2
+    Seq fail high-deg after 50 added:  111.6
+    Seq fail betweenness after 50 added:  76.6
+    Seq fail avg nhbr after 50 added:  60.0
